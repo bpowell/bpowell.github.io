@@ -1,0 +1,7 @@
+stages:
+    - deploy
+
+deploy_production:
+    stage: deploy
+    script:
+        - hugo -d /home/brandon/public
