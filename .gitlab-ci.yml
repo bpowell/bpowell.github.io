@@ -4,4 +4,5 @@ stages:
 deploy_production:
     stage: deploy
     script:
+        - git submodule init && git submodule update
         - hugo -d /home/brandon/public
