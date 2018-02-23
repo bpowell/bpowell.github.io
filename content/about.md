@@ -8,6 +8,13 @@ I am a programmer at Oakland University and I work as the lead developer on a op
 
 Previously I was a student developer at Oakland University. As a student I designed and built an Android app to connect to the uPortal web framework.
 
+
+You can find me at:
+
 * [Github](https://github.com/bpowell)
 * [Twitter](https://twitter.com/bjpowel2)
 
+Committee involvement:
+
+* [uPortal Steering Committee](https://www.apereo.org/projects/uportal/uportal-steering-committee)
+* Macomb Community College IT Advisory Board
