@@ -4,7 +4,9 @@ date: 2018-02-17T22:10:23-05:00
 menu: "navbar"
 ---
 
-Brandon is a programmer at Oakland University. He works on [uPortal](https://github.com/Jasig/uPortal) for the University.
+I am a programmer at Oakland University and I work as the lead developer on a open source portal system called [uPortal](https://github.com/Jasig/uPortal). I also manage a team of student developers. The students range from maybe taking one computer science class, to maybe a year or two of programming experience. A decent part of my job is to train the students to be active members of the open source community. I helped develop the uPortal Soffit security infrastructure and have committed back many security patches to the base product and portlets. Before I worked on uPortal I was the lead identity management developer. I maintained an old legacy code base that managed accounts for the University. My big project during this time was to create a way for new students, staff, and faculty to pick their own account names.
+
+Previously I was a student developer at Oakland University. As a student I designed and built an Android app to connect to the uPortal web framework.
 
 * [Github](https://github.com/bpowell)
 * [Twitter](https://twitter.com/bjpowel2)
