@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Brandon's Dev Blog"
 theme = "hugo-theme-bootstrap4-blog"
 copyright = "© Brandon Powell 2018"
+googleAnalytics = "UA-114684615-1"
 
 [params]
     author = "Brandon Powell"
