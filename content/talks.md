@@ -4,6 +4,24 @@ date: 2018-02-17T23:05:57-05:00
 menu: "navbar"
 draft: false
 ---
+# GDG Cloud Meetup - Montreal 12/18/2018
+### Your First Pipeline 
+Video coming shortly
+
+***
+
+# Bay Area Spinnaker Meetup 12/5/2018
+### First Pipeline
+[YouTube](https://youtu.be/1ItKRPFAGM0?t=2736)
+
+***
+
+# DevOps Exchange San Francisco November Meetup 11/15/2018
+### Using Spinnaker With EKS
+[YouTube](https://www.youtube.com/watch?v=goHMtVbKEeA)
+
+***
+
 # Bay Area Spinnaker Meetup 11/7/2018
 ### Day in the Life of a Pipeline
 [YouTube](https://youtu.be/167jrwxcr2w?t=4964)
