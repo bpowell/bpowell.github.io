@@ -4,9 +4,33 @@ date: 2018-02-17T23:05:57-05:00
 menu: "navbar"
 draft: false
 ---
+# Spinnaker Meetup 04/03/2019
+### Advanced Pipelines
+[YouTube](https://youtu.be/dyh7QvWXNoU?t=2712)
+
+***
+
+# Spinnaker Meetup 02/27/2019
+### Spinnaker Roadmap
+[YouTube](https://youtu.be/lyG0YnT-nYs?t=2265)
+
+***
+
+# Delivering Applications with Spinnaker PHX Meetup 02/21/2019
+### Spinnaker & K8s 
+[YouTube](https://youtu.be/9uN9lG2gVHw?t=3576)
+
+***
+
+# She's Coding Seattle 02/07/2019
+### Your First Pipeline 
+Video coming soon!
+
+***
+
 # GDG Cloud Meetup - Montreal 12/18/2018
 ### Your First Pipeline 
-Video coming shortly
+[YouTube](https://www.youtube.com/watch?v=E_4PHiyMqEs)
 
 ***
 
