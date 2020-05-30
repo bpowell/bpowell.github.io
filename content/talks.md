@@ -4,6 +4,12 @@ date: 2018-02-17T23:05:57-05:00
 menu: "navbar"
 draft: false
 ---
+# Spinnaker Summmit 2019
+### Spinnaker Plugins
+[YouTube](https://www.youtube.com/watch?v=7EPr2N9cHj8)
+
+***
+
 # Spinnaker Meetup 04/03/2019
 ### Advanced Pipelines
 [YouTube](https://youtu.be/dyh7QvWXNoU?t=2712)
