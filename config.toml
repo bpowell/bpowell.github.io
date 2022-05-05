@@ -1,4 +1,4 @@
-baseURL = "https://brandonsdevblog.me/"
+baseURL = "https://www.brandonsdevblog.me/"
 languageCode = "en-us"
 title = "Brandon's Dev Blog"
 theme = "hugo-theme-bootstrap4-blog"
